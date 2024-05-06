@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117205480809",
+    "project_id": "e-comm-d12e1",
+    "storage_bucket": "e-comm-d12e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117205480809:android:82f61d048a382bdef8f9f8",
+        "android_client_info": {
+          "package_name": "com.zeedevs.admin_panel_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBXS6wgLOxgI_KUaVRtdU_8bbeW7bomo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
